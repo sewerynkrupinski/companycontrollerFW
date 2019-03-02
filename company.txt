@@ -1,0 +1,5 @@
+Jan;Kowalski
+Adam;Słodowy
+Karol;Nowak
+Anna;Zaradna
+Jola;Manola
